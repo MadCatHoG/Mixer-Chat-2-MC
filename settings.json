@@ -1,0 +1,9 @@
+{
+	"serverIp":"your minecraft server ip or hostname",
+	"rconPort":30002,
+	"rconPassword":"your rcon pass",
+	"streamerIGN":"MinecraftIGN",
+	"botName":"MixerBotName",
+	"initMessage":"Mixer chat ready!",
+	"accessKey":"your access key from https://mixer.com/lab/oauth"
+}

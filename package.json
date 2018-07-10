@@ -1,0 +1,16 @@
+{
+  "name": "mixer-chat-mc",
+  "version": "1.0.0",
+  "description": "Sends Mixer chat to a Minecraft server",
+  "main": "minecraft_mixer_chat.js",
+  "dependencies": {
+    "beam-client-node": "^1.1.0",
+    "ws": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "minecraft_mixer_chat.js"
+  },
+  "author": "MadCat",
+  "license": "ISC"
+}
